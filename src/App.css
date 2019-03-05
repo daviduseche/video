@@ -1,0 +1,21 @@
+.grid.container {
+  margin-top: 2em;
+}
+.inputFile {
+  width: 0.1px;
+  height: 0.1px;
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+  z-index: -1;
+}
+
+.ui.header {
+  margin: 2em;
+  padding-top: 2em;
+}
+
+.ui.header.file {
+  margin-top: 12px;
+  padding: 5px;
+}
